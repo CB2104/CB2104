@@ -3,9 +3,11 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Cesar Bastidas
+  Hi, I'm Cesar Bastidas - Welcome to my Github Repo
   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 28px></picture> 
 </h1>
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Cesar+%F0%9F%91%8B;Fullstack+Developer;JS+%2F+TS+%7C+React+%7C+Next.js;Node.js+%7C+NestJS;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +19,7 @@
 
 - 🛠️ Fullstack Developer focused on the **JavaScript / TypeScript** ecosystem
 - ⚛️ Building scalable UIs with **React** and **Next.js**
-- 🔧 Backend development with **Node.js** and **NestJS**
+- 🔧 Backend development with **Node.js** and **NestJS** / Building scalable web applications and APIs
 - 📚 Currently deepening my knowledge in **testing, clean architecture and AI-driven development**
 - ⚽ Outside tech: Board games, video games & movies
 
@@ -27,7 +29,7 @@
 
 <h3>Frontend</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,bootstrap)](https://skillicons.dev)
 
 <h3>Backend</h3>
 
@@ -35,7 +37,7 @@
 
 <h3>Tools & Other</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,mongodb,postman,vscode,jest,vercel,)](https://skillicons.dev)
 
 ---
 
@@ -43,16 +45,22 @@
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🏋️ Fitness Tracker AI | AI-powered fitness tracker that analyzes food logs to calculate calories. Includes auth/login and CMS backend | React, Tailwind, Strapi, AI | [View →](https://fitness-tracker-prototype.vercel.app) |
-| 🧩 Portfolio | My personal portfolio | React, Next.js | [View →](https://portfolio-v2-flax-delta.vercel.app) |
-| 🌤️ Weather App | Real-time weather app | React, API | [View →](https://clima-test-inky.vercel.app) |
-| 📘 Facebook Clone | Social media UI clone | React | [View →](https://cara-libro-clon.vercel.app) |
-| 👟 Ecommerce Landing | Shoes store landing page | React, Tailwind | [View →](https://shoes-ecommerce-self.vercel.app) |
-| 🎵 Music App | Music streaming UI | React | [View →](https://music-app-v1-one.vercel.app) |
-| 🧠 Quiz App | Interactive quiz game | React | [View →](https://app-quizz-rosy.vercel.app) |
-| ✅ To-Do List | Task management app | React | [View →](https://to-do-list-omega-one-10.vercel.app) |
-| 🔢 Calculator | Functional calculator | React | [View →](https://calculadora-v1-nu.vercel.app) |
-| 🛒 TesloShop | Fullstack ecommerce (Next.js + Auth + Prisma) | Next.js, Prisma, Auth.js | [View →](https://app.netlify.com/projects/tesloshop-practice/overview) |
+| 🛒 TesloShop | Fullstack ecommerce with authentication, product management and database integration | Next.js, PostgreSQL, Nest.js | [View →](https://app.netlify.com/projects/tesloshop-practice/overview) |
+| 🦸 Heroes App | Heroes database with search, protected routes and client-side navigation using React Router. Demonstrates component architecture and state management. | React, JavaScript, React Router, CSS | [View →](https://heroes-app-ashy-omega.vercel.app) |
+| 🏋️ Fitness Tracker AI | AI-powered fitness tracker that analyzes food logs to calculate calories. Includes auth/login and CMS backend | TS, React, Tailwind, Strapi, AI | [View →](https://fitness-tracker-prototype.vercel.app) |
+| 🧩 Portfolio | Personal portfolio with internationalization and responsive UI | TS, React, Tailwind CSS, i18n | [View →](https://portfolio-v2-flax-delta.vercel.app) |
+
+## 🧪 Other Projects
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| 🌤️ Weather App | Real-time weather app | JS Vanila, API | [View →](https://clima-test-inky.vercel.app) |
+| 📘 Facebook Clone | Social media UI clone | JS Vanila | [View →](https://cara-libro-clon.vercel.app) |
+| 👟 Ecommerce Landing | Shoes store landing page | JS Vanila | [View →](https://shoes-ecommerce-self.vercel.app) |
+| 🎵 Music App | Responsive music streaming interface built with React and reusable components.| JS Vanila | [View →](https://music-app-v1-one.vercel.app) |
+| 🧠 Quiz App | Interactive quiz game | JS Vanila | [View →](https://app-quizz-rosy.vercel.app) |
+| ✅ To-Do List | Task management app | JS Vanila | [View →](https://to-do-list-omega-one-10.vercel.app) |
+| 🔢 Calculator | Functional calculator | JS Vanila | [View →](https://calculadora-v1-nu.vercel.app) |
+
 
 ---
 
