@@ -47,26 +47,23 @@ Currently expanding my backend expertise with **Node.js**, **NestJS** and relati
 
 ## 🌐 Featured Projects
 
-| Project               | Description                                                                                                                                            | Stack                                | Live                                                                   |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------- |
-| 🧩 Portfolio          | Personal portfolio with internationalization and responsive UI                                                                                         | TS, React, Tailwind CSS, i18n        | [View →](https://portfolio-v2-flax-delta.vercel.app)                   |
-| 🏋️ Fitness Tracker AI | AI-powered fitness tracker that analyzes food logs to calculate calories. Includes auth/login and CMS backend                                          | TS, React, Tailwind, Strapi, AI      | [View →](https://fitness-tracker-prototype.vercel.app)                 |
-| 🦸 Heroes App         | Heroes database with search, protected routes and client-side navigation using React Router. Demonstrates component architecture and state management. | React, JavaScript, React Router, CSS | [View →](https://heroes-app-ashy-omega.vercel.app)                     |
-| 🛒 TesloShop          | Fullstack ecommerce with authentication, product management and database integration                                                                   | Next.js, PostgreSQL, Nest.js         | [View →](https://app.netlify.com/projects/tesloshop-practice/overview) |
+| Project               | Description                                                                                                                                            | Stack                                | Live                                                                   | Repo                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 🧩 Portfolio          | Personal portfolio with internationalization and responsive UI                                                                                         | TS, React, Tailwind CSS, i18n        | [View →](https://portfolio-v2-flax-delta.vercel.app)                   | [Repo →](https://github.com/CB2104/PortfolioV2)             |
+| 🏋️ Fitness Tracker AI | AI-powered fitness tracker that analyzes food logs to calculate calories. Includes auth/login and CMS backend                                          | TS, React, Tailwind, Strapi, AI      | [View →](https://fitness-tracker-prototype.vercel.app)                 | [Repo →](https://github.com/CB2104/FitnessTrackerPrototype) |
+| 🦸 Heroes App         | Heroes database with search, protected routes and client-side navigation using React Router. Demonstrates component architecture and state management. | React, JavaScript, React Router, CSS | [View →](https://heroes-app-ashy-omega.vercel.app)                     | [Repo →](https://github.com/CB2104/heroesApp)               |
+| 🛒 TesloShop          | Fullstack ecommerce with authentication, product management and database integration                                                                   | Next.js, PostgreSQL, Nest.js         | [View →](https://app.netlify.com/projects/tesloshop-practice/overview) | [Repo →](https://github.com/CB2104/tesloShop)               |
 
 ---
 
 ## 🧪 Other Projects
 
-| Project              | Description                                                                    | Stack          | Live                                                 |
-| -------------------- | ------------------------------------------------------------------------------ | -------------- | ---------------------------------------------------- |
-| 🌤️ Weather App       | Real-time weather app                                                          | JS Vanilla, API | [View →](https://clima-test-inky.vercel.app)         |
-| 📘 Facebook Clone    | Social media UI clone                                                          | JS Vanilla      | [View →](https://cara-libro-clon.vercel.app)         |
-| 👟 Ecommerce Landing | Shoes store landing page                                                       | JS Vanilla      | [View →](https://shoes-ecommerce-self.vercel.app)    |
-| 🎵 Music App         | Responsive music streaming interface built with React and reusable components. | JS Vanilla      | [View →](https://music-app-v1-one.vercel.app)        |
-| 🧠 Quiz App          | Interactive quiz game                                                          | JS Vanilla      | [View →](https://app-quizz-rosy.vercel.app)          |
-| ✅ To-Do List        | Task management app                                                            | JS Vanilla      | [View →](https://to-do-list-omega-one-10.vercel.app) |
-| 🔢 Calculator        | Functional calculator                                                          | JS Vanilla      | [View →](https://calculadora-v1-nu.vercel.app)       |
+| Project           | Stack           | Live                                                 |
+| ----------------- | --------------- | ---------------------------------------------------- |
+| 🌤️ Weather App    | JS Vanilla, API | [View →](https://clima-test-inky.vercel.app)         |
+| 📘 Facebook Clone | JS Vanilla      | [View →](https://cara-libro-clon.vercel.app)         |
+| 🧠 Quiz App       | JS Vanilla      | [View →](https://app-quizz-rosy.vercel.app)          |
+| ✅ To-Do List     | JS Vanilla      | [View →](https://to-do-list-omega-one-10.vercel.app) |
 
 ---
 
