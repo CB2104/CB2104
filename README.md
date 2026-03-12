@@ -43,24 +43,24 @@
 
 ## 🌐 Projects
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| 🛒 TesloShop | Fullstack ecommerce with authentication, product management and database integration | Next.js, PostgreSQL, Nest.js | [View →](https://app.netlify.com/projects/tesloshop-practice/overview) |
-| 🦸 Heroes App | Heroes database with search, protected routes and client-side navigation using React Router. Demonstrates component architecture and state management. | React, JavaScript, React Router, CSS | [View →](https://heroes-app-ashy-omega.vercel.app) |
-| 🏋️ Fitness Tracker AI | AI-powered fitness tracker that analyzes food logs to calculate calories. Includes auth/login and CMS backend | TS, React, Tailwind, Strapi, AI | [View →](https://fitness-tracker-prototype.vercel.app) |
-| 🧩 Portfolio | Personal portfolio with internationalization and responsive UI | TS, React, Tailwind CSS, i18n | [View →](https://portfolio-v2-flax-delta.vercel.app) |
+| Project               | Description                                                                                                                                            | Stack                                | Live                                                                   |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------- |
+| 🧩 Portfolio          | Personal portfolio with internationalization and responsive UI                                                                                         | TS, React, Tailwind CSS, i18n        | [View →](https://portfolio-v2-flax-delta.vercel.app)                   |
+| 🏋️ Fitness Tracker AI | AI-powered fitness tracker that analyzes food logs to calculate calories. Includes auth/login and CMS backend                                          | TS, React, Tailwind, Strapi, AI      | [View →](https://fitness-tracker-prototype.vercel.app)                 |
+| 🦸 Heroes App         | Heroes database with search, protected routes and client-side navigation using React Router. Demonstrates component architecture and state management. | React, JavaScript, React Router, CSS | [View →](https://heroes-app-ashy-omega.vercel.app)                     |
+| 🛒 TesloShop          | Fullstack ecommerce with authentication, product management and database integration                                                                   | Next.js, PostgreSQL, Nest.js         | [View →](https://app.netlify.com/projects/tesloshop-practice/overview) |
 
 ## 🧪 Other Projects
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| 🌤️ Weather App | Real-time weather app | JS Vanila, API | [View →](https://clima-test-inky.vercel.app) |
-| 📘 Facebook Clone | Social media UI clone | JS Vanila | [View →](https://cara-libro-clon.vercel.app) |
-| 👟 Ecommerce Landing | Shoes store landing page | JS Vanila | [View →](https://shoes-ecommerce-self.vercel.app) |
-| 🎵 Music App | Responsive music streaming interface built with React and reusable components.| JS Vanila | [View →](https://music-app-v1-one.vercel.app) |
-| 🧠 Quiz App | Interactive quiz game | JS Vanila | [View →](https://app-quizz-rosy.vercel.app) |
-| ✅ To-Do List | Task management app | JS Vanila | [View →](https://to-do-list-omega-one-10.vercel.app) |
-| 🔢 Calculator | Functional calculator | JS Vanila | [View →](https://calculadora-v1-nu.vercel.app) |
 
+| Project              | Description                                                                    | Stack          | Live                                                 |
+| -------------------- | ------------------------------------------------------------------------------ | -------------- | ---------------------------------------------------- |
+| 🌤️ Weather App       | Real-time weather app                                                          | JS Vanila, API | [View →](https://clima-test-inky.vercel.app)         |
+| 📘 Facebook Clone    | Social media UI clone                                                          | JS Vanila      | [View →](https://cara-libro-clon.vercel.app)         |
+| 👟 Ecommerce Landing | Shoes store landing page                                                       | JS Vanila      | [View →](https://shoes-ecommerce-self.vercel.app)    |
+| 🎵 Music App         | Responsive music streaming interface built with React and reusable components. | JS Vanila      | [View →](https://music-app-v1-one.vercel.app)        |
+| 🧠 Quiz App          | Interactive quiz game                                                          | JS Vanila      | [View →](https://app-quizz-rosy.vercel.app)          |
+| ✅ To-Do List        | Task management app                                                            | JS Vanila      | [View →](https://to-do-list-omega-one-10.vercel.app) |
+| 🔢 Calculator        | Functional calculator                                                          | JS Vanila      | [View →](https://calculadora-v1-nu.vercel.app)       |
 
 ---
 
