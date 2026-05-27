@@ -104,20 +104,6 @@ What I'm focused on right now:
 - 🔁 Fullstack architecture with monorepos and shared types
 - 🤖 **Prompt Engineering** and AI-assisted development workflows
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CB2104&layout=compact&theme=tokyonight&border_radius=12)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CB2104&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
